@@ -30,4 +30,4 @@ I am a Full-Stack Developer with a deep focus on integrating **Artificial Intell
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Insert your LinkedIn Link here]
-- **Email:** [Insert your Email here]
+- **Email:** muneebahmedsiddiqui2@gmail.com
