@@ -29,5 +29,5 @@ I am a Full-Stack Developer with a deep focus on integrating **Artificial Intell
 </div>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your LinkedIn Link here]
+- **LinkedIn:** www.linkedin.com/in/muneeb-ahmed-siddiqui
 - **Email:** muneebahmedsiddiqui2@gmail.com
