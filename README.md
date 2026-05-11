@@ -3,11 +3,6 @@
 ### 👨‍💻 About Me
 I am a Full-Stack Developer on a specialized track to become an AI/ML Engineer. I bridge the gap between heavy backend systems, artificial intelligence, and sleek, modern user experiences. I am currently on an intensive 5-month sprint building complex, production-grade B2B applications and SaaS clones to master the modern web stack before diving deep into machine learning architectures.
 
-### 🚀 My 2026 Engineering Roadmap:
-- **🧠 March (AI & Backend Architecture):** Deployed *RepoRAG* (FastAPI/pgvector). Currently building an API Uptime Monitor to master Python background tasks and server cron jobs.
-- **💳 April (SaaS Commerce & Auth):** Building a Digital Product Storefront (Gumroad clone) to master Stripe Webhooks, and a Product Feedback Board to master SQL Joins and Role-Based Access Control (RBAC).
-- **⚡ May (Real-Time State Management):** Building a Real-Time Kanban Board (Trello clone) using WebSockets and advanced React drag-and-drop state.
-- **🧊 June/July (3D Web & Hardcore ML Pivot):** Wrapping the 5-project ecosystem into a WebGL/React Three Fiber interactive 3D portfolio, before pivoting entirely into PyTorch and custom model training.
 
 ### 🛠️ Tech Stack & Tools
 
