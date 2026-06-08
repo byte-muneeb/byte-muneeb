@@ -1,8 +1,7 @@
 # Hi there, I'm Muneeb! 👋
 
 ### 👨‍💻 About Me
-I am a Full-Stack Developer on a specialized track to become an AI/ML Engineer. I bridge the gap between heavy backend systems, artificial intelligence, and sleek, modern user experiences. I am currently on an intensive 5-month sprint building complex, production-grade B2B applications and SaaS clones to master the modern web stack before diving deep into machine learning architectures.
-
+I am a Full-Stack Developer on a specialized track to become an AI/ML Engineer. I bridge the gap between heavy backend systems, artificial intelligence, and sleek, modern user experiences. 
 
 ### 🛠️ Tech Stack & Tools
 
